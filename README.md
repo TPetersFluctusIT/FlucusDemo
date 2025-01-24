@@ -34,15 +34,14 @@ Nach Abschluss der Schulung solltest du:
 
 ---
 
-## Schritte zur Vorbereitung
-
+## Wichtigste Befehle
 1. **Repository klonen**  
    ```bash
    git clone <repository-url>
    ```
 2. **Einen neuen Branch erstellen**  
    ```bash
-   git checkout -b feature/<dein-name>
+   git checkout -b <neuer_branch_name>
    ```
 3. **Änderungen vornehmen und committen**  
    ```bash
@@ -51,7 +50,7 @@ Nach Abschluss der Schulung solltest du:
    ```
 4. **Änderungen pushen**  
    ```bash
-   git push origin feature/<dein-name>
+   git push origin <branch_name>
    ```
 5. **Pull Request erstellen**  
    - Erstelle einen Pull Request im GitHub-Interface.
